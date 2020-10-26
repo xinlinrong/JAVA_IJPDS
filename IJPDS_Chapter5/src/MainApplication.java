@@ -38,6 +38,20 @@ public class MainApplication {
     	//run(new MyPratise526());
     	//run(new MyPratise527());
     	//run(new MyPratise528());
-    	run(new MyPratise529());
+    	//run(new MyPratise529());
+    	//run(new MyPratise530());
+    	//run(new MyPratise531());
+    	//run(new MyPratise532());
+    	//run(new MyPratise533());
+    	//run(new MyPratise534());
+    	//run(new MyPratise535());
+    	//run(new MyPratise536());
+    	//run(new MyPratise537());
+    	//run(new MyPratise538());
+    	//run(new MyPratise539());
+    	//run(new MyPratise540());
+    	//run(new MyPratise541());
+    	//run(new MyPratise542());
+    	run(new MyPratise543());
 	}
 }
