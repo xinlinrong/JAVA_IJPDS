@@ -55,6 +55,11 @@ public class MainApplication {
     	//run(new MyPratise543());
     	//run(new MyPratise544());
     	//run(new MyPratise545());
-    	run(new MyPratise546());
+    	//run(new MyPratise546());
+    	//run(new MyPratise547());
+    	//run(new MyPratise548());
+    	//run(new MyPratise549());
+    	//run(new MyPratise550());
+    	run(new MyPratise551());
 	}
 }
