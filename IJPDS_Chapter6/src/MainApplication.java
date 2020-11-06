@@ -14,6 +14,8 @@ public class MainApplication {
     	//run(new MyPratise62());
     	//run(new MyPratise63());
     	//run(new MyPratise64());
-    	run(new MyPratise65());
+    	//run(new MyPratise65());
+    	//run(new MyPractise66());
+    	run(new MyPractise67());
 	}
 }
