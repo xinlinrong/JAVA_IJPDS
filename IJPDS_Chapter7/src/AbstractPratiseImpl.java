@@ -5,7 +5,12 @@ public class AbstractPratiseImpl implements IPratiseInterface {
 	/**
 	 * 初始化输入的类
 	 */
-	protected Scanner in = new Scanner(System.in);
+	protected Scanner in = null;
+	
+	public AbstractPratiseImpl()
+	{
+		in = new Scanner(System.in);
+	}
 	
 	/**
 	 * 实现执行接口, 执行运行功能
