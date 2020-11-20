@@ -19,6 +19,15 @@ public class MainApplication {
 		//run(new MyPractise707());
 		//run(new MyPractise708());
 		//run(new MyPractise709());
-		run(new MyPractise710());
+		//run(new MyPractise710());
+		//run(new MyPractise711());
+		//run(new MyPractise712());
+		//run(new MyPractise713());
+		//run(new MyPractise714());
+		//run(new MyPractise715());
+		//run(new MyPractise716());
+		//run(new MyPractise717());
+		//run(new MyPractise718());
+		run(new MyPractise719());
 	}
 }
