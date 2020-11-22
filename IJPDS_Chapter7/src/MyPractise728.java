@@ -1,5 +1,5 @@
 /**
- * 练习 7.28: 数学: 组合
+ * 练习 7.28: 游戏: 组合
  */
 public class MyPractise728 extends AbstractPratiseImpl {
 

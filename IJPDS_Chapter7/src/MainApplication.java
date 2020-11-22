@@ -38,6 +38,12 @@ public class MainApplication {
 		//run(new MyPractise726());
 		//run(new MyPractise727());
 		//run(new MyPractise728());
-		run(new MyPractise729());
+		//run(new MyPractise729());
+		//run(new MyPractise730());
+		//run(new MyPractise731());
+		//run(new MyPractise732());
+		//run(new MyPractise733());
+		//run(new MyPractise734());
+		run(new MyPractise735());
 	}
 }
